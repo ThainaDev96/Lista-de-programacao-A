@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio29 {
 
@@ -43,4 +43,5 @@ JOptionPane.showMessageDialog(null, "O valor da area do trapezio eh: " + areaTra
 }
 }
    
+
 
