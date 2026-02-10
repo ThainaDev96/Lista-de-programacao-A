@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package provathainaribeirobairros;
+package provathainaribeiro;
 
 import javax.swing.JOptionPane;
 
@@ -55,3 +55,4 @@ JOptionPane.showMessageDialog(null, "O salário final é: " + salario_final);
 
 
    
+
