@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio20 {
 
@@ -35,3 +35,4 @@ JOptionPane.showMessageDialog(null, "Foram comprados " + cavalos + " cavalos. Se
 }
 
     
+
