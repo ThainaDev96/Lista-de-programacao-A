@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio26 {
 
@@ -43,3 +43,4 @@ JOptionPane.showMessageDialog(null, "O valor arrecadado das vendas eh: " + valor
     }
     
 }
+
