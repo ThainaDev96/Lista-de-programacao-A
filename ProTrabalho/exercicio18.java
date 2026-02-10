@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio18 {
 
@@ -39,3 +39,4 @@ JOptionPane.showMessageDialog(null, "O valor da venda é: R$" + valorVenda);
 }
 
     
+
