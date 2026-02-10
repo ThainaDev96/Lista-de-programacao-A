@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio22 {
 
@@ -39,3 +39,4 @@ JOptionPane.showMessageDialog(null, nome + ", você já viveu " + diasVida + " d
 
 
     
+
