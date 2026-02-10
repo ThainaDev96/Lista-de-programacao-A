@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
  *
  * @author ThainaRibeiro
  */
-public class Questao5_Thaina_Ribeiro_Bairros {
+public class Questao5_Thaina_Ribeiro {
 
     /**
      * @param args the command line arguments
@@ -45,5 +45,6 @@ JOptionPane.showMessageDialog(null, "A área do quadrado é: " + area);
    
 
     
+
 
 
