@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio10 {
 
@@ -42,3 +42,4 @@ JOptionPane.showMessageDialog(null, "Sua média é: " + media);
 }
 
   
+
