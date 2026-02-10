@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @authorThainaRibeiroBairros
+ * @authorThainaRibeiro
  */
 public class ProTrabalho10 {
 
@@ -45,5 +45,6 @@ public class ProTrabalho10 {
     }
 }
     
+
 
        
