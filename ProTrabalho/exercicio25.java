@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio25 {
 
@@ -37,4 +37,5 @@ quantDias_totais = quantDias - dia;
 JOptionPane.showMessageDialog(null, "A quantidade de dias que se passaram desde o início do ano até a data atual é: " + quantDias_totais);
 }
 }
+
 
