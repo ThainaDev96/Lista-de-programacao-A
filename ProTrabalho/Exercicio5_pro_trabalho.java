@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Exercicio5_pro_trabalho {
 
@@ -57,4 +57,5 @@ public class Exercicio5_pro_trabalho {
 
     }
     
+
 
