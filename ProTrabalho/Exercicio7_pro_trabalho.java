@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Exercicio7_pro_trabalho {
 
@@ -46,3 +46,4 @@ JOptionPane.showMessageDialog(null, "O resultado da soma eh: " + soma);
     }
     
 }
+
