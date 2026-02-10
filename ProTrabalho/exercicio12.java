@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio12 {
 
@@ -39,5 +39,6 @@ soma = custo_fabrica + comissao_distribuidor + impostos;
 JOptionPane.showMessageDialog(null, "O custo final do carro para o consumidor é: R$ " + soma);
     }
 }
+
 
     
