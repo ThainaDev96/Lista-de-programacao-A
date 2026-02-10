@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio28 {
 
@@ -45,6 +45,7 @@ JOptionPane.showMessageDialog(null, "O salário com aumento é: " + salario_aume
 JOptionPane.showMessageDialog(null, "O salário final é: " + salario_final);
     }
 }
+
 
 
 
