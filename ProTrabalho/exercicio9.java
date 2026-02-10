@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio9 {
 
@@ -36,6 +36,7 @@ idade = Integer.parseInt(idade_s);
         JOptionPane.showMessageDialog(null, "Sua idade é: " + anos + " anos, " + meses + " meses e " + dias + " dias.");
     }
 }
+
 
 
 
