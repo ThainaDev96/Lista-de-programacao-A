@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio15 {
 
@@ -37,3 +37,4 @@ JOptionPane.showMessageDialog(null, "A conversão de dólares para reais é: R$"
     }
     
 }
+
