@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Questao5_Thaina_Ribeiro_Bairros {
 
@@ -45,4 +45,5 @@ JOptionPane.showMessageDialog(null, "A área do quadrado é: " + area);
    
 
     
+
 
