@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Exercicio3_pro_trabalho {
 
@@ -45,4 +45,5 @@ JOptionPane.showMessageDialog(null, "B troca com A " + valorC );
 
     }
     
+
 
