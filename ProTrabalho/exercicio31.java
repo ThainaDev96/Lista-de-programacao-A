@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @authorThainaRibeiroBairros
+ * @authorThainaRibeiro
  * 
  */
 public class exercicio31 {
@@ -41,3 +41,4 @@ JOptionPane.showMessageDialog(null, "O salario final do funcionario eh: R$ " + s
 
 
     
+
