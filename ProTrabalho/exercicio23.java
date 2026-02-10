@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio23 {
 
@@ -38,3 +38,4 @@ JOptionPane.showMessageDialog(null, "A quantidade em litros colocados no seu tan
 }
 
     
+
