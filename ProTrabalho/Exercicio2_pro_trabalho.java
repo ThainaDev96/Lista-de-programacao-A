@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Exercicio2_pro_trabalho {
 
@@ -38,4 +38,5 @@ JOptionPane.showMessageDialog(null, "O resto da divisao do segundo pelo primeiro
     }
 }
     
+
 
