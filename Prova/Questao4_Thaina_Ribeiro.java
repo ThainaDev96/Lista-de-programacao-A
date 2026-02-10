@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Questao4_Thaina_Ribeiro_Bairros {
 
@@ -53,4 +53,5 @@ JOptionPane.showMessageDialog(null, "O valor da area do trapezio eh: " + areaTra
 }
     
    
+
 
