@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio11 {
 
@@ -37,3 +37,4 @@ JOptionPane.showMessageDialog(null, "Tempo total: " + tempoHoras + " horas, " + 
 }
 
     
+
