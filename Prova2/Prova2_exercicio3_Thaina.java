@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Prova2_exercicio3_Thaina {
 
@@ -71,3 +71,4 @@ que contenha os elementos dos outros 2 vetores.*/
     
 
     
+
