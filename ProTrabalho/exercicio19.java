@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio19 {
 
@@ -40,3 +40,4 @@ JOptionPane.showMessageDialog(null, "A area do terreno eh: " + area + " metros q
 }
 
     
+
