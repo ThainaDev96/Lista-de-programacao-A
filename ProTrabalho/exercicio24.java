@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio24 {
 
@@ -35,4 +35,5 @@ valorPagar = 12.00f * peso_prato;
 JOptionPane.showMessageDialog(null, "O valor em reais a pagar é: " + valorPagar);
 }
 }
+
 
