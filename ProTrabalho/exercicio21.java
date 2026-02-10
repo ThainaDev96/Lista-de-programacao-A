@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio21 {
 
@@ -44,3 +44,4 @@ JOptionPane.showMessageDialog(null, "O valor arrecadado para poupanca eh : " + p
 }
 }
     
+
