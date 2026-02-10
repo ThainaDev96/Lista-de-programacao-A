@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Exercicio6_pro_trabalho {
 
@@ -38,3 +38,4 @@ JOptionPane.showMessageDialog(null, "A altura em metros eh:"+conversao +nome);
     }
     
 }
+
