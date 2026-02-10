@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
  *
  * @author ThainaRibeiro
  */
-public class Questao4_Thaina_Ribeiro_Bairros {
+public class Questao4_Thaina_Ribeiro {
 
     /**
      * @param args the command line arguments
@@ -53,5 +53,6 @@ JOptionPane.showMessageDialog(null, "O valor da area do trapezio eh: " + areaTra
 }
     
    
+
 
 
