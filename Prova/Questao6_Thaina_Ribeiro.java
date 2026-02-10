@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
  *
  * @author ThainaRibeiro
  */
-public class Questao6_Thaina_Ribeiro_Bairros {
+public class Questao6_Thaina_Ribeiro {
 
     /**
      * @param args the command line arguments
@@ -47,4 +47,5 @@ JOptionPane.showMessageDialog(null, "O salario final do funcionario eh: R$ " + s
 }
 
     
+
 
