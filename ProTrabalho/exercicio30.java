@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio30 {
 
@@ -34,4 +34,5 @@ JOptionPane.showMessageDialog(null, "A área do quadrado é: " + area);
 
     
     
+
 
