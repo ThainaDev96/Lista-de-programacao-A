@@ -9,9 +9,9 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
-public class Questao2_Thaina_Ribeiro_Bairros {
+public class Questao2_Thaina_Ribeiro {
 
     /**
      * @param args the command line arguments
@@ -52,4 +52,5 @@ JOptionPane.showMessageDialog(null, "Dias: " + diasRestantes);
 
         
  
+
 
