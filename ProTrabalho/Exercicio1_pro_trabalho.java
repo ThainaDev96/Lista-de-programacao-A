@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Exercicio1_pro_trabalho {
 
@@ -51,4 +51,5 @@ if (nro1 != 0 && nro2 != 0) {
 
     
     
+
 
