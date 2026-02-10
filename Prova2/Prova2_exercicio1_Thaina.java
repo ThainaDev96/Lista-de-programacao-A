@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Prova2_exercicio1_Thaina {
 
@@ -59,3 +59,4 @@ public class Prova2_exercicio1_Thaina {
     }
 }
    
+
