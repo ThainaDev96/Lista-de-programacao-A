@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package provathainaribeirobairros;
+package provathainaribeiro;
 
 import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Questao6_Thaina_Ribeiro_Bairros {
 
@@ -47,3 +47,4 @@ JOptionPane.showMessageDialog(null, "O salario final do funcionario eh: R$ " + s
 }
 
     
+
