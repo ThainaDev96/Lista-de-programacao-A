@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio17 {
 
@@ -33,4 +33,5 @@ JOptionPane.showMessageDialog(null, "O valor de cada prestação sem juros é: "
     }
 }
     
+
 
