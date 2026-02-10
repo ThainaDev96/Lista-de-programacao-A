@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Exercicio8 {
 
@@ -51,3 +51,4 @@ JOptionPane.showMessageDialog(null, "O número exato de dias com base na idade e
 
 
    
+
