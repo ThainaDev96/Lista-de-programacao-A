@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio16 {
 
@@ -34,3 +34,4 @@ JOptionPane.showMessageDialog(null, "O valor com rendimento após um mês é de:
     }
     
 }
+
