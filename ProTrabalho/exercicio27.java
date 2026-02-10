@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio27 {
 
@@ -40,3 +40,4 @@ JOptionPane.showMessageDialog(null, "Dias: " + diasRestantes);
     }
 }
     
+
