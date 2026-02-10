@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Questao3_Thaina_Ribeiro_Bairros {
 
@@ -55,4 +55,5 @@ JOptionPane.showMessageDialog(null, "O salário final é: " + salario_final);
 
 
    
+
 
