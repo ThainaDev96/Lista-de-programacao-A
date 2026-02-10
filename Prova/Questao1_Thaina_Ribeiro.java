@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
  *
  * @author ThainaRibeiro
  */
-public class Questao1_Thaina_Ribeiro_Bairros {
+public class Questao1_Thaina_Ribeiro {
 
     /**
      * @param args the command line arguments
@@ -59,6 +59,7 @@ JOptionPane.showMessageDialog(null, "O valor arrecadado das vendas eh: " + valor
 
 
     
+
 
 
 
