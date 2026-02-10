@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class Questao1_Thaina_Ribeiro_Bairros {
 
@@ -59,5 +59,6 @@ JOptionPane.showMessageDialog(null, "O valor arrecadado das vendas eh: " + valor
 
 
     
+
 
 
