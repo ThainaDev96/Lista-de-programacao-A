@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio13 {
 
@@ -37,3 +37,4 @@ JOptionPane.showMessageDialog(null, "O consumo médio do automóvel é de " + co
 }
 
   
+
