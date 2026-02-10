@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ThainaRibeiroBairros
+ * @author ThainaRibeiro
  */
 public class exercicio14 {
 
@@ -39,4 +39,5 @@ salario_final = salario + (comissao * total_vendas);
 JOptionPane.showMessageDialog(null, "Nome: " + nome + "\nSalário Fixo: R$ " + salario + "\nSalário Final: R$ " + salario_final);
     }
 }
+
 
